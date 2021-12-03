@@ -1,4 +1,8 @@
+flake8
+black
+mypy
 nbqa
+pylint
 matplotlib
 sklearn
 seaborn
