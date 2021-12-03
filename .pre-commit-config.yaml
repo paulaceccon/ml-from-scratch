@@ -1,0 +1,20 @@
+# .pre-commit-config.yaml
+
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v2.3.0
+    hooks:
+      - id: check-yaml
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+  - repo: https://github.com/nbQA-dev/nbQA
+    rev: 1.2.2
+    hooks:
+      - id: nbqa-black
+      - id: nbqa-pyupgrade
+        args: [ --py39-plus ]
+      - id: nbqa-isort
+      - id: nbqa-flake8
+      - id: nbqa-mypy
+      - id: nbqa-pylint
+      - id: nbqa-mdformat --nbqa-md
