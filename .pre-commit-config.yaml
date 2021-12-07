@@ -17,5 +17,3 @@ repos:
       - id: nbqa-flake8
       - id: nbqa-mypy
       - id: nbqa-pylint
-      - id: nbqa-mdformat
-        args: [ --nbqa-md ]
