@@ -13,6 +13,6 @@ without needing to run any code.
 
 ### Inspecting notebooks (without executing any code)
 
-* <a href="https://nbviewer.jupyter.org/github/paulaceccon/ml-from-scratch/blob/master/index.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
+* <a href="https://nbviewer.jupyter.org/github/paulaceccon/ml-from-scratch/blob/main/index.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
 
 * [github.com's notebook viewer](https://github.com/ageron/handson-ml2/blob/master/index.ipynb) also works, but it's not ideal: it's slower, the math equations are not always displayed correctly, and large notebooks often fail to open.
