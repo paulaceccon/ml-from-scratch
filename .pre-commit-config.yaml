@@ -17,3 +17,4 @@ repos:
       - id: nbqa-flake8
       - id: nbqa-mypy
       - id: nbqa-pylint
+        args: [--fail-under=8]
