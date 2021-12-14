@@ -21,3 +21,4 @@ without needing to run any code.
 ### Some references:
 
 - [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://github.com/ageron/handson-ml2)
+- [Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch)
