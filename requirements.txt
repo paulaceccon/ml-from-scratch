@@ -10,3 +10,4 @@ seaborn
 pandas
 jupyter_contrib_nbextensions
 tensorflow
+scipy
